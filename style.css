@@ -1,0 +1,119 @@
+.inicio-fundo {
+    background-image: url('img/4965007.jpg');
+    background-size: cover;
+    background-position: right;
+    border-radius: 80px;
+    width:100% ;
+    height:606px;
+    padding: 40px;
+    margin: 0 auto;
+}
+/*posicionamento para a imagem à direita */
+.img-inicio {
+    position: absolute;
+    right: 0;
+    top:18rem;
+    width:45rem;
+    height: auto;
+
+}
+.esquerda-conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap:1rem;
+}
+
+.botao-inicio {
+   
+}.inicio-fundo {
+    background-image: url('img/4965007.jpg');
+    background-size: cover;
+    background-position: right;
+    border-radius: 80px;
+    width:100% ;
+    height:606px;
+    padding: 40px;
+    margin: 0 auto;
+}
+/*posicionamento para a imagem à direita */
+.img-inicio {
+    position: absolute;
+    right: 0;
+    top:18rem;
+    width:45rem;
+    height: auto;
+}
+.esquerda-conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap:1rem;
+}
+
+.botao-inicio {
+   
+}.inicio-fundo {
+    background-image: url('img/4965007.jpg');
+    background-size: cover;
+    background-position: right;
+    border-radius: 80px;
+    width:100% ;
+    height:606px;
+    padding: 40px;
+    margin: 0 auto;
+}
+/*posicionamento para a imagem à direita */
+.img-inicio {
+    position: absolute;
+    right: 0;
+    top:18rem;
+    width:45rem
+}
+#tropicalia.container{
+    display: flex;
+    align-items: center;
+    justify-content: relative;
+    position: relative;
+    z-index: 1;
+}
+
+h2 {
+    font-family: 'lemon', serif;
+    font-size: 2.5em;
+    font-style: normal;
+    color: var(--laranja-claro);
+}
+
+#galeria {
+    background-color: #faf4f4;
+}
+.fundo-galeria {
+    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background-size: 180px 180px;
+}
+#contato {
+    background-image: url('imag/4965007.jpg');
+    background-size: cover;
+    padding: 4rem o;
+    /*espaçamento interno para a seção de contato*/
+}
+.formulario {
+    background-color: #ffffff;
+    padding: 2rem;
+    /*espaçamento interno dentro do formulario*/
+    border-radius: 10px;
+    /*borda arredonda para o formulário*/
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.1);
+    /*sombra suave para destacar o fomulario*/
+    font-weight: bold;
+}
+.formulario button {
+    background-color: #cb6d43;
+    border: none;
+    font-weight: bold;
+}
+/*chama classe do bootstrap para modificar a cor*/
+.form-control {
+    background-color: #f1edef;
+}
